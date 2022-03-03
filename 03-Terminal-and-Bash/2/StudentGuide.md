@@ -18,7 +18,7 @@ By the end of class, you will be able to:
 
 ### Slideshow
 
-- The lesson slides are available on Google Drive here: [3.2 Slides](https://docs.google.com/presentation/d/1xDlYES9Bs_CW6x005yPnjEQCyHArA8QKeg5RDrIfru0/edit#slide=id.g4f80a3047b_0_990).
+- The lesson slides are available on Google Drive here: [3.2 Slides](https://docs.google.com/presentation/d/1VOTC2YCClLcO1cJv6rbmcDHEdi7ub7xadupy7aKF3PE).
 
 
 -------
@@ -375,7 +375,7 @@ Now we will now discuss the syntax for the various methods of finding a file. We
     - We can use the above example to find the files called `log.txt` (lowercase) and `LOG.TXT` (uppercase) in your current directory and its subdirectories.
 
 
-4. `find -type f -iname *.txt`
+4. `find -type f -iname '*.txt'`
 
     - In this example, we are using a symbol known as a **wildcard** in order to search for all files that end with `.txt`.
 
@@ -389,6 +389,10 @@ Now we will now discuss the syntax for the various methods of finding a file. We
       - For example, you may want to look for all file names that begin with a certain date, regardless of what the file name ends with.
 
       - This can be done with a wildcard, signified by an asterisk `*`.
+
+      - When using a wildcard, make sure to surround whatever is being searched for with single quotes `'` to prevent unexpected results.  
+
+         - It may appear to work without the quotes, but the results may be inaccurate because of how the Bash Shell handles file globbing.  
 
     - Wildcards can come before text, such as `*.txt`, or after text such as `0517*`
 
@@ -436,7 +440,7 @@ Now we will now discuss the syntax for the various methods of finding a file. We
     - In this example, we are looking for a directory called `logs` or `LOGS`.
 
 
-4. `find -type d -iname *1013`  
+4. `find -type d -iname '*1013'`  
 
     - The `*` symbol indicates this is a wildcard search.
 
@@ -488,7 +492,7 @@ Now we will now discuss the syntax for the various methods of finding a file. We
 
 4.  Next, we will find the log files that have the date `1013` in their name. Run the following command:
 
-     - `find -type f -iname *1013*`
+     - `find -type f -iname '*1013*'`
 
 
         - `find`: The command used to search for the specified file or directory.

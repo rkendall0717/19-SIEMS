@@ -28,7 +28,7 @@ You will use your local Vagrant virtual machine for today's activities.
 
 ### Slideshow
 
-The slides for today can be viewed on Google Drive here: [4.1 Slides](https://docs.google.com/presentation/d/11HJiRswnw1gaX1ojBMuhCNDHMwo2yTJchJ_xrhicp9c)
+The slides for today can be viewed on Google Drive here: [4.1 Slides](https://docs.google.com/presentation/d/1HI73cjG9SolDervfsoYLs201N-q8LOWhgoH4x67mwJc)
 
 ---
 ### 01. So, Why Linux?

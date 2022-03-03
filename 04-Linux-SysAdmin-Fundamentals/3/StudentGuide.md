@@ -30,7 +30,7 @@ By the end of class, you should be able to to:
 
 ### Slideshow 
 
-The slides for today can be viewed on Google Drive here: [4.3 Slides](https://docs.google.com/presentation/d/1cnU4gJSWqZTK_o7H6CTnjS-JW9UaqWLYd23SD-wmcN4/edit)
+The slides for today can be viewed on Google Drive here: [4.3 Slides](https://docs.google.com/presentation/d/1C-tlM9NHyD-mF2CcYFV7FONs5r9hRntZa-4OhovT92g)
 
 ---
 

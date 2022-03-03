@@ -30,7 +30,7 @@ You will use your local Vagrant virtual machine for today's activities.
 
 ### Slideshow
 
-The slides for today can be viewed on Google Drive here: [4.2 Slides](https://docs.google.com/presentation/d/1gywE-QHvHIWEGoqehxg8rO3GpiBqVflG5foGEf3qQ5g)
+The slides for today can be viewed on Google Drive here: [4.2 Slides](https://docs.google.com/presentation/d/1em6mxWkllhl0wPNAuG-v16Hz2ch2jf6qh8SdRbeJdA0)
 
 ---
 

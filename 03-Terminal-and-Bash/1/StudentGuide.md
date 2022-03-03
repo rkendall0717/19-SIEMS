@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to:
 
 ### Slideshow
 
-The lesson slides are available on Google Drive here: [3.1 Slides](https://docs.google.com/presentation/d/1cbm83Z25PoMz2MM5Vh_ieJntJoFIAnJYOU4wkEOkKAk/edit).
+The lesson slides are available on Google Drive here: [3.1 Slides](https://docs.google.com/presentation/d/1somkgdlwclBB7TNYD1QR9-Hc6tMAqMxgC5BHwm8zJFM).
 
 
 - **Note:** Editing access is not available for this document. If you wish to modify the slides, please create a copy by navigating to File > "Make a copy...".

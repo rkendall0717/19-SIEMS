@@ -19,7 +19,7 @@ By the end of this class, you will be able to:
 
 ### Slideshow
 
-- The lesson slides are available on Google Drive here: [3.3 Slides](https://docs.google.com/presentation/d/1LiPZVapdSEFkb-0Nk3aBjZJNiIKdsJOTdbpljE1GIyA/edit#slide=id.g4f80a3047b_0_990).
+- The lesson slides are available on Google Drive here: [3.3 Slides](https://docs.google.com/presentation/d/1aVYucnkCZkQCJrRwiUVFsMIf0Q_p4s-zIXiV1_Dth-I/).
 
 
 - **Note:** Editing access is not available for this document. If you wish to modify the slides, please create a copy by navigating to File > "Make a copy...".
